@@ -29,7 +29,7 @@ export class IzanamiProvider extends Component {
     experimentsFallback: {},
     debug: false,
     fetchHeaders: {},
-    id: "default",
+    id: "/api/izanami",
     loading: () => null
   };
 
